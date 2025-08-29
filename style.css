@@ -1,8 +1,6 @@
 body {
     font-family: 'Gill Sans';
     font-size: 2em;
-    color-scheme: blue, red, green;
-    background-image: linear-gradient(60 deg, dodgerblue, red, yellow);
-    background: linear-gradient(rgb(48, 48, 152) rgb(75, 40, 128)) ;b
+    background: linear-gradient(90deg #61150e #7b1513);
 }
 
