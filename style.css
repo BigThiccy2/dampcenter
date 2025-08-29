@@ -1,7 +1,6 @@
 body {
     font-family: 'Gill Sans';
     font-size: 2em;
-    background: linear-gradient(90deg #61150e #7b1513);
-    background-color:#61150e ;
+    background:radial-gradient() #61150e #7b1513 ;
 }
 
